@@ -38,7 +38,7 @@ Compiling Definitions
 - `_DEBUG` (default: off) will define whether to include debug features (refer to [Debugging Document](Support/debug.md))
 
 # Installing
-Once compiled, the Devilution binary will serve as a replacement for `Diablo.exe`. A clean installation of [Diablo patched to 1.09(b)](https://us.battle.net/forums/en/bnet/topic/20743584695) is needed to run the game. Either copy Devilution into Diablo's installation folder, or make sure the following files are present:
+Once compiled, the Devilution binary will serve as a replacement for `Diablo.exe`. A clean installation of [Diablo patched to 1.09(b)](http://diablo.wikia.com/wiki/Patch_1.09b_(Diablo_I)) is needed to run the game. Either copy Devilution into Diablo's installation folder, or make sure the following files are present:
 - `DIABDAT.MPQ` : if `COPYPROT` was defined, then the Diablo CD will be required
 - `DiabloUI.dll` : provides module for the title screen interface
 - `SmackW32.dll` : provides library for playing Smacker video files
